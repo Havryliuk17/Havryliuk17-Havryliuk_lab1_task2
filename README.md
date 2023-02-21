@@ -6,7 +6,9 @@ The code can be run using the command line, in which you need to specify:
 - path to the file in which the data is stored
 
 Example:
-input in the command line: python main.py 2009 49.83826 24.02324 loc.txt
-name of created file: Maps_Maker.html
-file content:
+- input in the command line: python main.py 2009 49.83826 24.02324 loc.txt
+- name of created file: Maps_Maker.html
+- file content:
+
+
 ![msg749338541-36526](https://user-images.githubusercontent.com/116552018/220439877-7fd0e7b9-e2ce-4385-af51-cc526e7ea1a8.jpg)
